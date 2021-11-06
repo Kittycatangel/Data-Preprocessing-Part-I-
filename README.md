@@ -19,4 +19,8 @@ Imputing missing values: SimpleImputer() method
 
 
 
-# B)-Getting categorical data into shape for machine learning algorithms
+# B)Encoding class labels
+Many machine learning libraries require that class labels are encoded as integer values. 
+
+LabelEncoder()
+One-hot encoder
