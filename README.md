@@ -27,3 +27,5 @@ Many machine learning libraries require that class labels are encoded as integer
 LabelEncoder()
 
 One-hot encoder
+
+Please refer to Untitled.ipynb for more information about the code, found in this repository.
