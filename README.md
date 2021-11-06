@@ -12,8 +12,11 @@ C)-Selecting relevant features for the model construction
 # A) Dealing with missing data
 
 The isnull( )method 
+
 Eliminating missing values : dropna( ) method
+
 Imputing missing values: SimpleImputer() method
+
 
 
 # B)-Getting categorical data into shape for machine learning algorithms
