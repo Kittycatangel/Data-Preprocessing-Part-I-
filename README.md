@@ -19,7 +19,7 @@ Imputing missing values: SimpleImputer() method
 
 
 
-# B)Encoding class labels
+# B) Encoding class labels
 Many machine learning libraries require that class labels are encoded as integer values. 
 
 LabelEncoder()
